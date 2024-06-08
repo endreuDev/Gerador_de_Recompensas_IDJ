@@ -1,8 +1,8 @@
-![Logo do sistema de RPG Império de Jade. Todos os direitos são reservados a Jambo Editora.](\assets\Logo.png)
+![Logo do sistema de RPG Império de Jade. Todos os direitos são reservados a Jambo Editora.](/assets/Logo.png)
 
 # Gerador de Recompensas para Império de Jade RPG
 
-### Utilize esse website para gerar as recompensas para a sua campanhade RPG baseado apenas no ND, sem precisar rolar dados!
+**Utilize esse website para gerar as recompensas para a sua campanhade RPG baseado apenas no ND, sem precisar rolar dados!**
 
 > [!WARNING]
 > Esse website ainda está em desenvolvimento! Mudanças drásticas podem acontecer no layout e/ou funcionalidade do website. Por favor atente-se às notas de versão.
